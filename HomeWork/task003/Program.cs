@@ -20,5 +20,4 @@ else
 {
 max = c;
 }
-Console.Write("Максимальное число: ");
-Console.WriteLine(max);
+Console.Write("Максимальное число: "+ max );
