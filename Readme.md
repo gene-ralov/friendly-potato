@@ -33,3 +33,10 @@
 >[Решение](https://github.com/gene-ralov/friendly-potato/blob/main/HomeWork/task014/Program.cs "Решение задачи 14")
 * task 015 - Задача № 15 *Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.*
 >[Решение](https://github.com/gene-ralov/friendly-potato/blob/main/HomeWork/task015/Program.cs "Решение задачи 15")
+## Семинар от 20.12.2022 *Функции*
+* task 016 - Задача № 16 *Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B. Не используя Math.Pow!*
+>[Решение](https://github.com/gene-ralov/friendly-potato/blob/main/HomeWork/task016/Program.cs "Решение задачи 16")
+* task 017 - Задача № 17 *Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.*
+>[Решение](https://github.com/gene-ralov/friendly-potato/blob/main/HomeWork/task017/Program.cs "Решение задачи 17")
+* task 018 - Задача № 18 *Напишите программу, которая задаёт массив из 8 случайных чисел (-10, 10) и выводит их на экран.*
+>[Решение](https://github.com/gene-ralov/friendly-potato/blob/main/HomeWork/task018/Program.cs "Решение задачи 18")
